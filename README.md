@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCPday/blob/master/img.png" width="450" height="120">
+<img src="https://github.com/alfbach/OCPforIBM/blob/master/img.png" width="450" height="120">
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
