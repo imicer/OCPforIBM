@@ -34,6 +34,9 @@ A notebook with a browser
 After attending this workshop you know how to architect and install an OpenShift environment, explain CRI-O, Istio and other “state of the art” tools to manage and meter OpenShift.
 Explain the integration of development tools, the options and how to install applications from other vendors on OpenShift (IBM, SAP,….)
 
+### You find the content here : https://github.com/alfbach/OCPforIBM/tree/master/files
+
+
 ## Agenda:
 
 ### Day 1:
