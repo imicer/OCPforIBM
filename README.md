@@ -1,8 +1,9 @@
-<img src="https://github.com/alfbach/OCPday/blob/master/img.png" width="450" height="120">
+<img src="https://github.com/alfbach/OCPforIBM/blob/master/img.png" width="450" height="120">
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## for Advanced and Premium Red Hat Patners
+## for IBM Architects
+
 September 2019
 
 In this repositiory you find the content of the workshop and usefull links to make you familar with OpenShift
