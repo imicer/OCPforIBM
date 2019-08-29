@@ -2,7 +2,8 @@
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## for Advanced and Premium Red Hat Patners
+## for IBM Architects
+
 September 2019
 
 In this repositiory you find the content of the workshop and usefull links to make you familar with OpenShift
