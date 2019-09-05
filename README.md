@@ -85,7 +85,7 @@ Explain the integration of development tools, the options and how to install app
 
 ### Day 3
 
-09:00		Running Containerised Workloads on OpenShift (IBM CloudPak, MS, ...)
+09:00		OpenShift Security and Universal Base Image
 
 10:30		Break 
 
