@@ -81,20 +81,16 @@ Explain the integration of development tools, the options and how to install app
 
 16:30		API Management (3Scale)
 
-17:00		End of Day Two
+17:00		End of Day 2
 
 ### Day 3
 
-09:00		OpenShift Security and Universal Base Image
+09:00		OpenShift Security
 
 10:30		Break 
 
 10:45		Roadmap what's new, what's coming 
 
-12:30		Lunch Break
-
-13:30		How to stay up to date and deliver this workshop locally
-
-15:00		End of Day 3
+12:00		End of Day 3
 
 
