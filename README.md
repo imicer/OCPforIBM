@@ -5,7 +5,7 @@
 ## for IBM Architects
 <img src="https://github.com/alfbach/OCPforIBM/blob/master/IBM_RH.png" width="450" height="120">
 
-September 2019
+November 2019
 
 In this repositiory you find the content of the workshop and usefull links to make you familar with OpenShift
 
@@ -41,56 +41,44 @@ Explain the integration of development tools, the options and how to install app
 
 ### Day 1:
 
-13:00		Welcome, Intro
+10:00		Welcome, Intro
 
-13:30		Red Hat and OpenSource
+10:30		Red Hat and OpenSource
 
-14:00		OpenShift - the platform for great ideas
+11:00		OpenShift - the platform for great ideas
 
-15:30		Break
+12:30		Break
 
-15:45		OpenShift Architecture (OCP 3.11 / 4.x and differences to ICP)
+13:45		OpenShift Architecture (and differences to ICP)
 
 17:00		End Day One
 
 ### Day 2
 
-9:00		CoreOS and OpenShift 4.x
+9:00		Moving from Docker
 
-10:15		Moving on from Docker. The new container framework
+9:45		OCP Install
 
-11:00		HandsOn "Build a Container with Buildah"
+10:30		Break
 
-11:30		Break
+10:45		Operator Framework 
 
-11:45		Live Demo
+11:00		Quay Regisitry
 
 12:00		HandsOn OpenShift 4.x „Build an App with OpenShift“
 
 12:30		Lunch Break
 
-13:30		OpenShift Platform Installation (3.11 and 4.x)
+13:30		Red Hat Universal Base Image
+
+14:00		Container Native Virtualisation (CMV)
+
+14:30		Istio Service Mesh
 
 15:00		Break
 
-15:15		Istio Service Mesh
+15:15		OpenShift Container Storage
 
-15:40		Container Native Virtualisation
+16:00		OpenShift Security
 
-16:00		Modern Registry Management (QUAY)
-
-16:30		API Management (3Scale)
-
-17:00		End of Day 2
-
-### Day 3
-
-09:00		OpenShift Security
-
-10:30		Break 
-
-10:45		Roadmap what's new, what's coming 
-
-12:00		End of Day 3
-
-
+17:00		End 
