@@ -1,7 +1,8 @@
 <img src="https://github.com/alfbach/oaw_remote/blob/master/logo.png" width="450" height="120">
 
 
-# Red Hat OpenShift 4.x Infrastructure Workshop remote version
+# Red Hat OpenShift 4.x Infrastructure Workshop
+## remote version
 
 April 2020
 
@@ -14,13 +15,13 @@ April 2020
 
 9:15		OpenShift Architecture Part 1
 
-		Overview / Installation
+				Overview / Installation
 
 11:00		BREAK
 
 11:15		OpenShift Architecture Part 2
 
-		Configuration Networking Storage
+				Configuration Networking Storage
 
 13:00		BREAK
 
@@ -34,9 +35,9 @@ April 2020
 
 9:15		OpenShift Advanced Features
 
-		Container Native Virtualisation
+				Container Native Virtualisation
 
-		Modern Registry Management (QUAY)				
+				Modern Registry Management (QUAY)				
 
 10:45		BREAK
 
