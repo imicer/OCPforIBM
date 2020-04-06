@@ -2,11 +2,8 @@
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop remote version
-## for Red Hat Partners
 
-March 2020
-
-etherpad: https://bit.ly/2Uu8r9d
+April 2020
 
 ## Agenda:
 
@@ -18,16 +15,16 @@ etherpad: https://bit.ly/2Uu8r9d
 9:15		OpenShift Architecture Part 1
 
 		Overview / Installation
-		
+
 11:00		BREAK
 
 11:15		OpenShift Architecture Part 2
 
-		Configuration Networking Storage 
-	
+		Configuration Networking Storage
+
 13:00		BREAK
 
-14:00		HandsOn Lab - OpenShift Operating 
+14:00		HandsOn Lab - OpenShift Operating
 
 17:00		WrapUp and virtual after work drink
 
