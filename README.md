@@ -15,48 +15,42 @@ etherpad: https://bit.ly/2Uu8r9d
 
 9:00		Welcome and Intro
 
-9:25		OpenShift - the platform for great ideas
+9:15		OpenShift Architecture Part 1
 
-10:15		OpenShift Architecture
+		Overview / Installation
+		
+11:00		BREAK
 
-11:00		BREAK		
+11:15		OpenShift Architecture Part 2
 
-11:15		OpenShift Architecture
+		Configuration Networking Storage 
+	
+13:00		BREAK
 
+14:00		HandsOn Lab - OpenShift Operating 
 
-12:00		Introduction HandsOn Lab 1
-
-14:00		CoreOS and CRI- The new container framework
-
-
-15:00		HandsOn Lab 2 "Build a Container with Buildah"
-
-16:00		OpenShift Plattform Installation
-
-17:00		WrapUp End of Day 1
-
+17:00		WrapUp and virtual after work drink
 
 ### Day 2:
 
 9:00		Introduction Day2
 
-9:15		OpenShift Operator Framework		
+9:15		OpenShift Advanced Features
 
-10:00		HandsOn Lab 3: “Installing OpenShift 4”
+		Container Native Virtualisation
 
+		Modern Registry Management (QUAY)				
 
-12:00		Container Native Virtualisation
+10:45		BREAK
 
-12:30		Modern Registry Management (QUAY)
+11:00		Open Shift Security
 
+12:00		OpenShift RoadMap			
 
-13:00		Break			
+12:45		Q&A and Feedback
 
-14:00		HandsOn Lab 4: “Creating an App in OpenShift
+13:00		BREAK
 
-
-15:00		OpenShift roadmap
-
-16:30		Q&A and Feedback
+14:00		HandsOn Lab cont...
 
 17:00		End of day two
