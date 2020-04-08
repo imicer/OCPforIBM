@@ -29,6 +29,9 @@ April 2020
 
 17:00		WrapUp and virtual after work drink
 
+Recording Day 1: https://bluejeans.com/s/IWnOY/
+
+
 ### Day 2:
 
 9:00		Introduction Day2
