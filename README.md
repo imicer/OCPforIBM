@@ -25,11 +25,11 @@ April 2020
 
 13:00		BREAK
 
-14:00		HandsOn Lab - OpenShift Operating
+14:00		HandsOn Lab - Learn OpenShift 
 
-17:00		WrapUp and virtual after work drink
+17:00		Wrapup and virtual after work drink
 
-Recording Day 1: https://bluejeans.com/s/IWnOY
+
 
 
 ### Day 2:
@@ -52,8 +52,7 @@ Recording Day 1: https://bluejeans.com/s/IWnOY
 
 13:00		BREAK
 
-14:00		HandsOn Lab cont...
+14:00		HandsOn Lab 
 
 17:00		End of day two
 
-Recording day 2: https://bluejeans.com/s/WwhI5
