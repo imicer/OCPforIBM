@@ -13,6 +13,8 @@ April 2020
 
 9:00		Welcome and Intro
 
+		https://www.menti.com/wq7y7j1wjd
+
 9:15		OpenShift Architecture Part 1
 
 				Overview / Installation
