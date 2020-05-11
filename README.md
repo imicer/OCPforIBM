@@ -2,7 +2,8 @@
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version
+## for IBM System Consultants
+### remote version
 
 May 2020
 
@@ -50,6 +51,8 @@ May 2020
 10:45		BREAK
 
 11:00		Cluster Manager
+
+11:30		Serverless
 
 12:00		OpenShift RoadMap			
 
