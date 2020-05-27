@@ -31,9 +31,9 @@ May 2020
 
 14:00		CoreOS & CRI-O
 
-15:00		Operator Framework
+14:30		Operator Framework
 
-16:00		HandsOn Lab - Learn OpenShift 
+15:00		HandsOn Lab - Learn OpenShift 
 
 18:00		Open End		
 
